@@ -1,2 +1,2 @@
-# git-practice
-learning Git basics
+# My Git Practice
+Learning Git and GitHub - Day 1
